@@ -18,7 +18,7 @@ This is a web application project for a personal blog created using React. It al
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/kalyanakula7/React.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the web browser and visit: `http://localhost:3000`
