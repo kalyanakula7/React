@@ -5,6 +5,8 @@ This is a web application project for a personal blog created using React. It al
 ## Video Link
 https://www.dropbox.com/sh/zwx6vp4v2d8n00k/AACx6v2Jv7FUSAML1JH72oDUa?dl=0&preview=Video+May+13+2023%2C+11+42+02+AM.mov
 
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/kQLMBt7/Screenshot-2023-05-13-at-12-51-54.png)](https://www.dropbox.com/sh/zwx6vp4v2d8n00k/AACx6v2Jv7FUSAML1JH72oDUa?dl=0&preview=Video+May+13+2023%2C+11+42+02+AM.mov)
+
 ## Features
 
 - Display blog articles with content fetched from third-party APIs.
